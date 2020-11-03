@@ -28,5 +28,15 @@
       "price": 17,
       "img": "https://cdn-img.prettylittlething.com/f/7/1/8/f718a4011ddf92f48aeefff6da0f475178694599_cly0842_1.jpg?imwidth=1024"
     }
+  ], 
+  "posts": [
+    {
+      "type": "faq",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem."
+    },
+    {
+      "type": "delivery",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem."
+    }
   ]
 }
