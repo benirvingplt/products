@@ -1,4 +1,12 @@
 {
+  "nav": [
+    {
+      "name": "Item one",
+    },
+    {
+      "name": "Item two"
+    }
+],
   "products": [
     {
       "id": 1,
