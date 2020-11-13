@@ -46,5 +46,17 @@
       "type": "delivery",
       "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dolor velit, lobortis et lectus sit amet, accumsan hendrerit dui. Aenean sed arcu in est bibendum gravida nec ac metus. Pellentesque in viverra lorem, et lacinia dolor. Sed eu dolor non erat sodales ullamcorper. In ultrices euismod ex, eu varius lacus dapibus sit amet. Integer rhoncus est mi, et sagittis metus rutrum vel. Curabitur consequat metus vitae massa dignissim interdum. Curabitur odio justo, commodo vel fermentum et, aliquam nec diam. Vestibulum et enim quis felis facilisis rhoncus. Proin posuere imperdiet lectus, gravida mattis odio imperdiet ut. Vestibulum a venenatis ligula. Aliquam tempor auctor quam sit amet tincidunt. Integer tempor leo quis dolor suscipit, ut pellentesque diam dignissim. Aliquam id risus id risus pulvinar luctus. Mauris tellus velit, faucibus ut aliquam vitae, maximus et ipsum. Praesent tortor tellus, rhoncus volutpat nisl in, blandit dictum lorem."
     }
-  ]
+  ],
+  "menu":[
+  {
+    "name": "NEW IN",
+    "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/newin.jpg",
+    "children": [
+      {"name": "NEW IN",
+      "categories": ["View all", "New in today", "New in this week"]},
+       {"name": "PLT RANGES",
+      "categories": ["New in plus", "New in petite", "New in tall"]},
+    ]
+  }
+]
 }
