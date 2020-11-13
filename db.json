@@ -52,10 +52,14 @@
     "name": "NEW IN",
     "img": "https://cdn-media.prettylittlething.com/studio/mega-menu/desktop/12.11.20/newin.jpg",
     "children": [
-      {"name": "NEW IN",
-      "categories": ["View all", "New in today", "New in this week"]},
-       {"name": "PLT RANGES",
-      "categories": ["New in plus", "New in petite", "New in tall"]},
+      {
+        "name": "NEW IN",
+        "categories": ["View all", "New in today", "New in this week"]
+      },
+       {
+        "name": "PLT RANGES",
+        "categories": ["New in plus", "New in petite", "New in tall"]
+}
     ]
   }
 ]
